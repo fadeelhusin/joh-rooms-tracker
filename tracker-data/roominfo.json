@@ -1,0 +1,33 @@
+{
+  "5.00.TEC.02": {
+    "Room Number": "5.00.TEC.02",
+    "Room Name": "IDF",
+    "Room Function Area": "9.Technical Spaces",
+    "Function Sub Area": "IT/AV",
+    "Nett Area (m²)": "13",
+    "Wall Finish (Schedule)": "Paint",
+    "Wall Keynotes (IFC)": "AW17 ×2, CW05",
+    "Wall Family & Type (IFC)": "AR_WAL_CORE_CW05_CONCRETE_300MM, AR_WAL_INTERNAL_AW17_LYRSOUNDLOCK_55MM ×2",
+    "Wall Materials (IFC, m²)": "JOH_Concrete - Insitu (3.3 m²), Air (0.8 m²), JOH_Fabric (0.7 m²)",
+    "Wall Total (m²)": "4.8",
+    "Floor Finish (Schedule)": "Silicate - Eco Friendly",
+    "Floor Keynotes (IFC)": "F04A ×4",
+    "Floor Family & Type (IFC)": "AR_FLR_F04A_ECO_SILICATE_150MM - (BOH) ×4",
+    "Floor Materials (IFC, m²)": "JOH - Rubber Crumb (13.4 m²), JOH_Concrete - Screed (13.4 m²), JOH_Eco silicate (13.4 m²), JOH_Insulation - Rigid (13.4 m²)",
+    "Floor Total (m²)": "53.8",
+    "Ceiling Finish (Schedule)": "Concealed concrete",
+    "Ceiling Keynotes (IFC)": "",
+    "Ceiling Family & Type (IFC)": "",
+    "Ceiling Materials (IFC, m²)": "",
+    "Ceiling Total (m²)": "",
+    "No. of Doors (Schedule)": "0",
+    "Door Marks": "",
+    "Door Keynotes (IFC)": "IDW16",
+    "Door Family & Type (IFC)": "IDW16 - 13x21M",
+    "IFC Doors Count": "1",
+    "IFC Part Zone": "Part-4 Lyric",
+    "IFC Scope Code": "BOH",
+    "Scope": "BOH",
+    "Scope Basis (auto)": "Per colored scope plan (THEATRE/FOH/BOH)"
+  }
+}
