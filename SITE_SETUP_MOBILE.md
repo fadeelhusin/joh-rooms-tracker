@@ -11,20 +11,20 @@
 
 ## PART A — Publish the app once (you, on a computer or phone browser)
 
-1. Go to your GitHub repo **fadeelhusin/joh-rooms-1**.
+1. Go to your GitHub repo **fadeelhusin/joh-rooms-tracker**.
 2. Upload ALL files from this folder (drag-drop in the web UI, or `git push`).
 3. Make it public + turn on Pages:
    - **Settings → General → Danger Zone → Change visibility → Public**
    - **Settings → Pages → Source: `main` branch → /(root) → Save**
 4. After ~1 minute your link is live:
-   **https://fadeelhusin.github.io/joh-rooms-1/**
+   **https://fadeelhusin.github.io/joh-rooms-tracker/**
 
 ---
 
 ## PART B — Create ONE GitHub token (shared by the team, or one each)
 
 1. GitHub → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new**.
-2. **Repository access:** Only select repositories → **joh-rooms-1**.
+2. **Repository access:** Only select repositories → **joh-rooms-tracker**.
 3. **Permissions → Repository → Contents: Read and write** (nothing else).
 4. Generate, copy the `ghp_…` token.
 
@@ -34,12 +34,12 @@
 
 ## PART C — Each engineer, once, on their phone
 
-1. Open **https://fadeelhusin.github.io/joh-rooms-1/**
+1. Open **https://fadeelhusin.github.io/joh-rooms-tracker/**
 2. (Optional) **Add to Home Screen** so it opens like an app:
    - iPhone Safari: Share → Add to Home Screen
    - Android Chrome: ⋮ → Add to Home screen
 3. Tap **⚙️ Set up sync** (top left).
-4. Paste the **token**, confirm Owner `fadeelhusin`, Repo `joh-rooms-1`, Branch `main`.
+4. Paste the **token**, confirm Owner `fadeelhusin`, Repo `joh-rooms-tracker`, Branch `main`.
 5. Type **your name** (tags your notes & edits).
 6. **Save & sync.**
 
@@ -54,7 +54,7 @@ Done. From now on: work offline all day → whenever there's signal, it syncs by
 
 ## Where the data lives on GitHub
 ```
-joh-rooms-1/
+joh-rooms-tracker/
   tracker-data/
     progress.json      ← site progress %
     roominfo.json      ← room-info edits

@@ -694,7 +694,7 @@ var SyncUI = (function () {
     var c = Sync.getCfg() || {};
     document.getElementById('syncToken').value = c.token || '';
     document.getElementById('syncOwner').value = c.owner || 'fadeelhusin';
-    document.getElementById('syncRepo').value = c.repo || 'joh-rooms-1';
+    document.getElementById('syncRepo').value = c.repo || 'joh-rooms-tracker';
     document.getElementById('syncBranch').value = c.branch || 'main';
     var un = document.getElementById('syncUserName'); if (un) un.value = localStorage.getItem('joh_user_name') || '';
     renderStatus();
