@@ -19,5 +19,31 @@
     "Plaster": 0,
     "MEP 3rd Fix": 0,
     "Tiles": 0
+  },
+  "5.00.SUP.07": {
+    "Block layout": 1,
+    "Plaster": 1,
+    "Painting 1st coat": 0.25,
+    "MEP & ELV 1st & 2nd Fix": 0.56,
+    "Screed": 1,
+    "Epoxy / Eco Silicate": 0
+  },
+  "5.00.TEC.02": {
+    "Door Hardware": 0,
+    "Door Installation": 0,
+    "Door Frames": 0
+  },
+  "5.00.COR.11": {
+    "Block layout": 1,
+    "Screed": 0,
+    "Tiles": 0,
+    "Epoxy / Eco Silicate": 0,
+    "Ceiling Painting": 0,
+    "False Ceiling": 0,
+    "MEP 1st & 2nd Fix": 0.75,
+    "MEP 3rd Fix": 0.75,
+    "Door Hardware": 0,
+    "Door Installation": 0,
+    "Door Frames": 0
   }
 }
